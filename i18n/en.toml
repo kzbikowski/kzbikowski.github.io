@@ -1,5 +1,8 @@
 [home]
 other = 'About'
 
+[teaching]
+other = 'Teaching'
+
 [contact]
 other = 'Contact'

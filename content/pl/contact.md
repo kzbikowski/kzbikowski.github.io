@@ -1,23 +1,25 @@
 +++
-title = "Contact"
+title = "Kontakt"
 +++
 
-* Email: [kamil.zbikowski@pw.edu.pl](mailto:kamil.zbikowski@pw.edu.pl)
+Email: [kamil.zbikowski@pw.edu.pl](mailto:kamil.zbikowski@pw.edu.pl)
 
 ---
 
-## Mailing Address
+## Adres
 
-> 221B, Baker Street
+> INSTYTUT INFORMATYKI
 >
-> London
+> Wydział Elektroniki i Technik Informacyjnych, Politechnika Warszawska
 >
-> United Kingdom
+> Pokój 302
+>
+> ul. Nowowiejska 15/19
+>
+> 00-665 Warszawa
 
 ---
 
-## Social
+[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)

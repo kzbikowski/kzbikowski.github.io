@@ -6,56 +6,29 @@ title = "O mnie"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+Adiunkt w Instytucie Informatyki Politechniki Warszawskiej oraz Data Science Manager w mBanku. Specjalizuje się w aplikacyjnych zastosowaniach metod uczenia maszynowego w bankowości oraz cyberbezpieczeństwie. Lubi wykorzystywać wiedzę z obszaru analizy danych i procesów do znajdowania prostych rozwiązań dla (pozornie) skompliowanych problemów.
 
-## Research Interest
+Współzałożyciel [inhire.io](https://inhire.io) – wiodącej firmy działąjącej w obszarze rekrutacji IT w Polsce. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+## Publikacje
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Żbikowski, Kamil, and Piotr Antosiuk. "A machine learning, bias-free approach for predicting business success using Crunchbase data." Information Processing & Management 58.4 (2021): 102555.
 
-## Publications
+- Żbikowski, Kamil, Michał Ostapowicz, and Piotr Gawrysiak. "Deep Reinforcement Learning for Resource Allocation in Business Processes." arXiv preprint arXiv:2104.00541 (2021).
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- Ostapowicz, Michał, and Kamil Żbikowski. "Detecting fraudulent accounts on blockchain: a supervised approach." International Conference on Web Information Systems Engineering. Springer, Cham, 2020.
 
-## Typography
+- Ładyżyński, Piotr, Kamil Żbikowski, and Piotr Gawrysiak. "Direct marketing campaigns in retail banking with the use of deep learning and random forests." Expert Systems with Applications 134 (2019): 28-35.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- Aché, Mathurin, et al. "ISMIS 2017 Data Mining Competition: Trading Based on Recommendations." International Symposium on Methodologies for Intelligent Systems. Springer, Cham, 2017.
 
-Here is a table:
+- Żbikowski, Kamil. "Application of machine learning algorithms for bitcoin automated trading." Machine intelligence and big data in industry. Springer, Cham, 2016. 161-168.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+- Żbikowski, Kamil. "Using volume weighted support vector machines with walk forward testing and feature selection for the purpose of creating stock trading strategy." Expert Systems with Applications 42.4 (2015): 1797-1805.
 
-Here is a horizontal rule:
+- Żbikowski, Kamil. "Time series forecasting with volume weighted support vector machines." International Conference: Beyond Databases, Architectures and Structures. Springer, Cham, 2014.
 
----
+- Ładyżyński, Piotr, Kamil Żbikowski, and Przemysław Grzegorzewski. "Stock trading with random forests, trend detection tests and force index volume indicators." International conference on artificial intelligence and soft computing. Springer, Berlin, Heidelberg, 2013.
 
-Here is a blockquote:
+[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
 
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.

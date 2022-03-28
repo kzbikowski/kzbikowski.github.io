@@ -1,9 +1,8 @@
 baseURL = "http://ii.pw.edu.pl/"
 DefaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
 theme = "researcher"
 languageCode = 'en-us'
-title="Kamil Żbikowski"
+title="Kamil Żbikowski, PhD"
 
 [languages]
   [languages.en]
@@ -31,18 +30,13 @@ googleAnalytics = ""  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "Theme By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "Kamil Żbikowski"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/"
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
@@ -59,6 +53,10 @@ googleAnalytics = ""  # add your tracking id
     url = "/about"
     weight = 1
   [[menu.main]]
+    identifier = "teaching"
+    url = "/teaching"
+    weight = 20
+  [[menu.main]]
     identifier = "contact"
     url = "/contact"
-    weight = 2
+    weight = 30

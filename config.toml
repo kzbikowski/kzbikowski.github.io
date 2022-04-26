@@ -1,4 +1,4 @@
-baseURL = "http://ii.pw.edu.pl/"
+baseURL = "http://ii.pw.edu.pl/~kzbikows/"
 DefaultContentLanguage = "en"
 theme = "researcher"
 languageCode = 'en-us'
@@ -19,14 +19,15 @@ title="Kamil Żbikowski, PhD"
     languageName = 'Polski'
     weight = 1
 
-disableKinds = ["taxonomy", "term"]
+
+  disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Kamil Żbikowski"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "Kamil Żbikowski"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
@@ -50,13 +51,13 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     identifier = "home"
-    url = "/about"
+    url = "about/"
     weight = 1
   [[menu.main]]
     identifier = "teaching"
-    url = "/teaching"
+    url = "teaching/"
     weight = 20
   [[menu.main]]
     identifier = "contact"
-    url = "/contact"
+    url = "contact/"
     weight = 30

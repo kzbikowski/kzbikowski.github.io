@@ -4,9 +4,9 @@ title = "O mnie"
 
 ## O mnie
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/~kzbikows/avatar.jpg" alt="avatar">}}
 
-Adiunkt w Instytucie Informatyki Politechniki Warszawskiej oraz Data Science Manager w mBanku. Specjalizuje się w aplikacyjnych zastosowaniach metod uczenia maszynowego w bankowości oraz cyberbezpieczeństwie. Lubi wykorzystywać wiedzę z obszaru analizy danych i procesów do znajdowania prostych rozwiązań dla (pozornie) skompliowanych problemów.
+Adiunkt w Instytucie Informatyki Politechniki Warszawskiej oraz Data Science Manager w mBanku. Specjalizuję się w aplikacyjnych zastosowaniach metod uczenia maszynowego w bankowości oraz cyberbezpieczeństwie. Lubię wykorzystywać wiedzę z obszaru analizy danych i procesów do znajdowania prostych rozwiązań dla (pozornie) skompliowanych problemów.
 
 Współzałożyciel [inhire.io](https://inhire.io) – wiodącej firmy działąjącej w obszarze rekrutacji IT w Polsce. 
 

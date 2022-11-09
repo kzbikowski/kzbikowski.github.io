@@ -1,4 +1,4 @@
-baseURL = "http://ii.pw.edu.pl/~kzbikows/"
+baseURL = "http://staff.ii.pw.edu.pl/~kzbikows/"
 DefaultContentLanguage = "en"
 theme = "researcher"
 languageCode = 'en-us'

@@ -1,4 +1,4 @@
-baseURL = "http://staff.ii.pw.edu.pl/~kzbikows/"
+baseURL = "https://kzbikowski.github.io"
 DefaultContentLanguage = "en"
 theme = "researcher"
 languageCode = 'en-us'

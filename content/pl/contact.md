@@ -12,7 +12,7 @@ Email: [kamil.zbikowski@pw.edu.pl](mailto:kamil.zbikowski@pw.edu.pl)
 >
 > Wydział Elektroniki i Technik Informacyjnych, Politechnika Warszawska
 >
-> Pokój 302
+> Pokój 318
 >
 > ul. Nowowiejska 15/19
 >
@@ -21,5 +21,4 @@ Email: [kamil.zbikowski@pw.edu.pl](mailto:kamil.zbikowski@pw.edu.pl)
 ---
 
 [Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
-
 [Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)

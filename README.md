@@ -1,2 +1,1 @@
-# personal
-personal site
+# kzbikowski.github.io

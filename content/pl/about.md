@@ -4,13 +4,24 @@ title = "O mnie"
 
 ## O mnie
 
-{{< figure class="avatar" src="/~kzbikows/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 
-Adiunkt w Instytucie Informatyki Politechniki Warszawskiej oraz Data Science Manager w mBanku. Specjalizuję się w aplikacyjnych zastosowaniach metod uczenia maszynowego w bankowości oraz cyberbezpieczeństwie. Lubię wykorzystywać wiedzę z obszaru analizy danych i procesów do znajdowania prostych rozwiązań dla (pozornie) skompliowanych problemów.
+- CEO @ [Processifier](https://processifier.com) 
+- adiunkt @ Instytut Informatyki, Politechnika Warszawska
+ 
+Zrealizowałem i koordynowałem dziesiątki projektów wykorzystujących AI/Machine Learning w obszarach rynków finansowych, bankowości oraz HR. 
 
-Współzałożyciel [inhire.io](https://inhire.io) – wiodącej firmy działąjącej w obszarze rekrutacji IT w Polsce. 
+We wszystkich bez wyjątku największym wyzywaniem okazywało się odnalezienie potrzeby i zmierzenie realnego wpływu, który jesteśmy w stanie osiągnąć stosując zaawansowane metody takie jak AI czy ML. Założyłem Processifier, aby pomóc innym odpowiednio identyfikować i optymalizować tylko to co jest istotne. 
 
+Jestem również współzałożycielem [inhire.io](https://inhire.io), platformy rekrutacyjnej automatycznie dopasowującej i dostarczającej oferty do odpowiednich kandydatów z branży IT. 
+
+[Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)<br/>
+[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
+
+Zainteresowania badawcze: process mining, aplikacyjne zastosowania uczenia maszynowego/sztucznej inteligencji, support vector machines
 ## Publikacje
+
+- Żbikowski, Kamil, Michał Ostapowicz, and Piotr Gawrysiak. "Deep Reinforcement Learning for Resource Allocation in Business Processes." International Conference on Process Mining. Cham: Springer Nature Switzerland, 2022.
 
 - Żbikowski, Kamil, and Piotr Antosiuk. "A machine learning, bias-free approach for predicting business success using Crunchbase data." Information Processing & Management 58.4 (2021): 102555.
 
@@ -30,5 +41,5 @@ Współzałożyciel [inhire.io](https://inhire.io) – wiodącej firmy działąj
 
 - Ładyżyński, Piotr, Kamil Żbikowski, and Przemysław Grzegorzewski. "Stock trading with random forests, trend detection tests and force index volume indicators." International conference on artificial intelligence and soft computing. Springer, Berlin, Heidelberg, 2013.
 
-[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
+
 

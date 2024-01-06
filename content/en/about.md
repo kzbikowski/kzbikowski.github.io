@@ -4,13 +4,25 @@ title = "About me"
 
 ## About me
 
-{{< figure class="avatar" src="/~kzbikows/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.png" alt="avatar">}}
 
-I am an assistant professor at the Institute of Computer Science of the Warsaw University of Technology and a Data Science Manager at mBank. I specialize in the application of machine learning methods in banking and cybersecurity. I like to use my data and process analysis knowledge to find simple solutions to (seemingly) complex problems.
+- CEO @ [Processifier](https://processifier.com) 
+- Assistant Professor @ Institute of Computer Science, Politechnika Warszawska
 
-I am a co-founder of [inhire.io](https://inhire.io) - a leading company operating in the field of IT recruitment in Poland.
+I have implemented and coordinated dozens of projects utilizing AI/Machine Learning in areas of financial markets, banking, and HR.
 
+In all of them, without exception, the biggest challenge turned out to be identifying the need and measuring the real impact we can achieve by using advanced methods such as AI or ML. I founded Processifier to help others properly identify and optimize only what is essential.
+
+I am also a co-founder of [inhire.io](https://inhire.io), a recruitment platform that automatically matches and delivers job offers to the right candidates in the IT industry.
+
+[Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)<br/>
+[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
+
+
+Research interests: process mining, application uses of machine learning/artificial intelligence, support vector machines.
 ## Publications
+
+- Żbikowski, Kamil, Michał Ostapowicz, and Piotr Gawrysiak. "Deep Reinforcement Learning for Resource Allocation in Business Processes." International Conference on Process Mining. Cham: Springer Nature Switzerland, 2022.
 
 - Żbikowski, Kamil, and Piotr Antosiuk. "A machine learning, bias-free approach for predicting business success using Crunchbase data." Information Processing & Management 58.4 (2021): 102555.
 
@@ -29,6 +41,3 @@ I am a co-founder of [inhire.io](https://inhire.io) - a leading company operatin
 - Żbikowski, Kamil. "Time series forecasting with volume weighted support vector machines." International Conference: Beyond Databases, Architectures and Structures. Springer, Cham, 2014.
 
 - Ładyżyński, Piotr, Kamil Żbikowski, and Przemysław Grzegorzewski. "Stock trading with random forests, trend detection tests and force index volume indicators." International conference on artificial intelligence and soft computing. Springer, Berlin, Heidelberg, 2013.
-
-[Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)
-

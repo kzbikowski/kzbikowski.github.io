@@ -35,7 +35,7 @@ googleAnalytics = ""  # add your tracking id
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
-    avatarSize = "90px"
+    avatarSize = "200px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]

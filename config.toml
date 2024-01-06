@@ -8,14 +8,14 @@ title="Kamil Żbikowski, PhD"
   [languages.en]
     contentDir = 'content/en'
     languageCode = 'en'
-    languageFlag = "🇬🇧"
+    languageFlag = "EN"
     languageName = 'English'
     weight = 0
 
   [languages.pl]
     contentDir = 'content/pl'
     languageCode = 'pl'
-    languageFlag = "🇵🇱"
+    languageFlag = "PL"
     languageName = 'Polski'
     weight = 1
 

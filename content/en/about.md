@@ -9,11 +9,6 @@ title = "About me"
 - CEO @ [Processifier](https://processifier.com) 
 - Assistant Professor @ Institute of Computer Science, Politechnika Warszawska
 
-I have implemented and coordinated dozens of projects utilizing AI/Machine Learning in areas of financial markets, banking, and HR.
-
-In all of them, without exception, the biggest challenge turned out to be identifying the need and measuring the real impact we can achieve by using advanced methods such as AI or ML. I founded Processifier to help others properly identify and optimize only what is essential.
-
-I am also a co-founder of [inhire.io](https://inhire.io), a recruitment platform that automatically matches and delivers job offers to the right candidates in the IT industry.
 
 [Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)<br/>
 [Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)

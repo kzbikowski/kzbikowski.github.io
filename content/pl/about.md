@@ -8,12 +8,6 @@ title = "O mnie"
 
 - CEO @ [Processifier](https://processifier.com) 
 - adiunkt @ Instytut Informatyki, Politechnika Warszawska
- 
-Zrealizowałem i koordynowałem dziesiątki projektów wykorzystujących AI/Machine Learning w obszarach rynków finansowych, bankowości oraz HR. 
-
-We wszystkich bez wyjątku największym wyzywaniem okazywało się odnalezienie potrzeby i zmierzenie realnego wpływu, który jesteśmy w stanie osiągnąć stosując zaawansowane metody takie jak AI czy ML. Założyłem Processifier, aby pomóc innym odpowiednio identyfikować i optymalizować tylko to co jest istotne. 
-
-Jestem również współzałożycielem [inhire.io](https://inhire.io), platformy rekrutacyjnej automatycznie dopasowującej i dostarczającej oferty do odpowiednich kandydatów z branży IT. 
 
 [Linkedin](https://www.linkedin.com/in/zbikowski-kamil/)<br/>
 [Google Scholar](https://scholar.google.pl/citations?user=FoD-La4AAAAJ&hl=en)

@@ -4,7 +4,7 @@ title = "Teaching"
 
 ## Teaching
 
-### 2023Z
+### 24Z
 - Data Bases, EDABA
 	- [Lab 1](/edaba/lab1.pdf)
 	- [Lab 2](/edaba/lab2.pdf)
